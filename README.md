@@ -33,5 +33,5 @@
 
 ### 🦋 Наиболее используемые языки:
   <div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?gitdenik" alt="" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitdenik" alt="" /> 
   </div>
