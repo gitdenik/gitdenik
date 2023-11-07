@@ -26,3 +26,7 @@
 </div>
 
 ### 🏆 Достижения:
+
+<div> 
+  <img src="https://github-profile-trophy.vercel.app/?gitdenik" alt="" /> 
+</div>
